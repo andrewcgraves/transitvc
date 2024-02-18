@@ -1,0 +1,19 @@
+<li class="post-list-item">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ include.date | date: date_format }}</span>
+    <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+        </a>
+    </h3>
+    {%- if site.show_excerpts -%}
+        {{ include.excerpt }}
+    {%- endif -%}
+    <div class="post-tag-list">
+        {%- for tag in include.categories limit:3 -%}
+        <div class="post-meta">
+            {{ tag }}
+        </div>
+        {%- endfor -%}
+    </div>
+</li>
