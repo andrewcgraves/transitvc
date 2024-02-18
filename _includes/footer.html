@@ -1,33 +1,47 @@
-<!-- <footer class="site-footer h-card">
+<footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.author -%}
+            {{ site.author | escape }}
+          {%- else -%}
+            {{ site.title | escape }}
+          {%- endif -%}
+          </li>
+          <p>{{- site.description | escape -}}</p>
         </ul>
+        <p>Socials:</p>
+        {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-2">
+        <p>Initiatives</p>
+        <ul class="footer-content">
         {%- for init in site.initiatives -%}
-          <a class="contact-list" href="{{init.url}}">{{ init.title }}</a>
+          <li><a href="{{init.url}}">{{ init.title }}</a></li>
         {%- endfor -%}
+        </ul>
+        {%- if site.initiatives.size == 0 -%}
+          <p>nothing here yet...</p>
+        {%- endif -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>Posts</p>
+        <ul class="footer-content">
+        {%- for post in site.posts -%}
+          <li><a class="contact-list" href="{{init.url}}">{{ init.title }}</a></li>
+        {%- endfor -%}
+        </ul>
+        {%- if site.posts.size == 0 -%}
+          <p>nothing here yet...</p>
+        {%- endif -%}
       </div>
     </div>
 
   </div>
 
-</footer> -->
+</footer>
