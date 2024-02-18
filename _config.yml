@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TransitVC
-email: your-email@example.com
+title: MoveVC
+email: contact@movevc.org
 description: >- # this means to ignore newlines until "baseurl:"
   We push for improved access to public and active transportation around Ventura County. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://movevc.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TODO
 # mastodon: 
 #   username: TODO

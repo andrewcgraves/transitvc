@@ -219,6 +219,10 @@
   border-radius: 4px;
 }
 
+.post-header-image {
+  border-radius: 8px;
+}
+
 .post-tag-item {
   @include relative-font-size(0.75);
   width: fit-content;
