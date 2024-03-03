@@ -7,17 +7,17 @@ categories: active-transportation
 author: Andrew Graves
 ---
 
-With additional housing units being constructed in the Tapo St. and Alamo St. Simi Valley needs to be prepared to support alternate modes of transportation. To encourage new and existing residents along this corridor to reduce their trips made by car, we need to make saftey improvements to our biking and pedestrian infastructure. 
+With additional housing units being constructed on Tapo St. and Alamo St. Simi Valley needs to be prepared to support alternate modes of transportation. To encourage new and existing residents along this corridor to reduce their trips made by car, we need to make safety improvements to our biking and pedestrian infrastructure. 
 
 # Main Suggestions
 
 The focus of our suggestions lie in the general area between our government center to the northwest and the Simi Valley Metrolink station to the southeast. We are suggesting the following...
 1. A safer and more dedicated space for bikes along Alamo St. between the development on the corner of Tapo St. and Alamo St. to the government center here at the intersection of Alamo St. and Tapo Canyon Rd.
-2. A dedicated path along Tapo St from the intersection at Alamo St to the Arroyo Simi trail past Los Angeles Ave. to the south.
+2. A dedicated path along Tapo St. from the intersection at Alamo St. to the Arroyo Simi trail past Los Angeles Ave. to the south.
 
 ![Suggested Improvement Path](/assets/ariel-map.png)
 
-It would also be great to see some more pedestrian and bike improvements around the many schools and open spaces in that area such as...
+It would also be great to see some more pedestrian and bike improvements around the many schools and open spaces in that area, such as...
 - Santa Susana Elementary School
 - Lemon Park
 - Valley View Middle School
@@ -30,21 +30,22 @@ It would also be great to see some more pedestrian and bike improvements around 
 
 There are many positive externalities associated with improving bike paths, such as...
 - Fewer people taking their car for short trips
-	- reducing traffic congestion
-	- reducing emissions
-	- reducing traffic incidents
+    - reducing traffic congestion
+    - reducing emissions
+    - reducing traffic incidents
 - increased mobility for people who don't have access to a personal automobile.
-	- older people
-	- children
-	- people who cannot afford a car
+    - older people
+    - children
+    - people who cannot afford a car
 - increased connection and involvement with their community (a big problem for the younger generation of Simi).
-	- less isolation from nature and people
+    - less isolation from nature and people
 - increased physical health of the community.
 - increased business activity for shops along the route.
 
 # How can I help?
 
-If you're interested working with us, reach out over [mastodon](https://mastodon.social/@movevc) or [twitter](https://twitter.com/move_vc). To advocate for these changes directly, feel free to reach out to the Simi Valley City Council or your local neighbourhood council. 
+If you're interested in working with us, reach out over [mastodon](https://mastodon.social/@movevc) or [twitter](https://twitter.com/move_vc). To advocate for these changes directly, feel free to reach out to the Simi Valley City Council or your local neighborhood council. 
+
 
 # Resources
 
