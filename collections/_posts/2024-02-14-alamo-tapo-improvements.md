@@ -1,8 +1,10 @@
 ---
 title:  "Making Alamo St. and Tapo St. Multimodal"
-layout: initiative
+layout: post
 image: "tapo-north.jpg"
 date: "2024-02-14 00:00:01"
+categories: active-transportation
+author: Andrew Graves
 ---
 
 With additional housing units being constructed in the Tapo St. and Alamo St. Simi Valley needs to be prepared to support alternate modes of transportation. To encourage new and existing residents along this corridor to reduce their trips made by car, we need to make saftey improvements to our biking and pedestrian infastructure. 
@@ -42,7 +44,7 @@ There are many positive externalities associated with improving bike paths, such
 
 # How can I help?
 
-To push for these improvements, contact the Simi Valley City Council.
+If you're interested working with us, reach out over [mastodon](https://mastodon.social/@movevc) or [twitter](https://twitter.com/move_vc). To advocate for these changes directly, feel free to reach out to the Simi Valley City Council or your local neighbourhood council. 
 
 # Resources
 

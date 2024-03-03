@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: We push for improved access to public and active transportation around Ventura County.
 ---
 
 # We advocate for better active and public transportation in Ventura County

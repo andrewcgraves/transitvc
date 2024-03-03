@@ -33,7 +33,7 @@
         <p>Posts</p>
         <ul class="footer-content">
         {%- for post in site.posts -%}
-          <li><a class="contact-list" href="{{init.url}}">{{ init.title }}</a></li>
+          <li><a class="contact-list" href="{{post.url}}">{{ post.title }}</a></li>
         {%- endfor -%}
         {%- if site.posts.size == 0 -%}
           <p class="contact-list">nothing here yet...</p>
