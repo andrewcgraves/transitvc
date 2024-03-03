@@ -23,10 +23,10 @@
         {%- for init in site.initiatives -%}
           <li><a href="{{init.url}}">{{ init.title }}</a></li>
         {%- endfor -%}
-        </ul>
         {%- if site.initiatives.size == 0 -%}
-          <p>nothing here yet...</p>
+          <p class="contact-list">nothing here yet...</p>
         {%- endif -%}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-3">
@@ -35,10 +35,15 @@
         {%- for post in site.posts -%}
           <li><a class="contact-list" href="{{init.url}}">{{ init.title }}</a></li>
         {%- endfor -%}
-        </ul>
         {%- if site.posts.size == 0 -%}
-          <p>nothing here yet...</p>
+          <p class="contact-list">nothing here yet...</p>
         {%- endif -%}
+        </ul>
+
+      </div>
+      <div class="footer-col">
+        <p>Sign up for our mailing list</p>
+        {% include contact-form.html %}
       </div>
     </div>
 

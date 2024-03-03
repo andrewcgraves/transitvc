@@ -1,8 +1,8 @@
 ---
 title:  "Making Alamo St. and Tapo St. Multimodal"
-date:   2024-02-13 23:05:55 -0800
 layout: initiative
 image: "tapo-north.jpg"
+date: "2024-02-14 00:00:01"
 ---
 
 With additional housing units being constructed in the Tapo St. and Alamo St. Simi Valley needs to be prepared to support alternate modes of transportation. To encourage new and existing residents along this corridor to reduce their trips made by car, we need to make saftey improvements to our biking and pedestrian infastructure. 

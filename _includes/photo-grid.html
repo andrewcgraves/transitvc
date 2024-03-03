@@ -1,0 +1,7 @@
+<div class="photo-grid">
+    {% for photo in include.photos %}
+        {% if photo.path contains 'front-page' %}
+            <img src="https://wsrv.nl/?url={{ site.url }}{{ photo.path }}&h=300" alt="image" />
+        {% endif %}
+    {% endfor %}
+</div>
