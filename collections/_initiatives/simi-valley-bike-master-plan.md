@@ -10,18 +10,31 @@ In the next year, Simi Valley will be updating its [Bicycle Master Plan][1], whi
 A good example of this is [an article][2] we wrote detailing the importance of improving the active transportation infrastructure around portions of Simi Valley where residential and commercial activity is being focused.
 
 # Timeline
-> Current Status: Pre RFP
+> Current Status: [RFP Issued](https://www.simivalley.org/home/showpublisheddocument/27966/638460217556230000)
 
 The City details the steps that will be followed to refresh its Bicycle Plan. They are as follows
 
-1. **March 15th:** RFP (Request for proposals) sent out to contractors.
-2. **June:** Contract awarded to contractor seen as best fit by city staff to fulfill their requirements.
+1. **March 15th:** [RFP](https://www.simivalley.org/home/showpublisheddocument/27966/638460217556230000) (Request for proposals) sent out to contractors.
+2. **June-July:** Contract awarded to contractor seen as best fit by city staff to fulfill their requirements.
 3. **June 2024 - 2025:** Contractor updates the existing master plan. This includes...
     - Reviewing existing plans in the 2008 master plan.
     - Review of bicycle related collisions on city streets.
     - Conducting outreach to people who use the existing facilities or would be a good fit for a new system.
     - Solicit recommendation for new and upgraded facilities.
     - Final plan preparation.
+
+# Contractor Expectations
+
+According to the RFP, the chosen contractor must adhere to the following guidelines.
+- Host 3 community workshops.
+- Create a website with a feedback form for residents.
+- Must visit 10 community events throughout the year.
+
+The chosen contractor must also present the following upon completion of their Bike Plan.
+- Create an implementation strategy with steps to implement their plan goals.
+- Create a proposed timeline and cost estimates for implementation.
+- Identify sources of funding for construction.
+- Mode shift estimates / maps of proposed facilities.
 
 We will be following this development closely. If you are interested in getting updates on the plan as it progresses, sign up for our mailing list at the bottom of the page, or check back on this page every few weeks.
 
